@@ -173,6 +173,7 @@
     * [ ] API Controllers
     * [ ] API Resources
     * [ ] CORS
+- Exceptions
 - TDD
     * [ ] Red-Green-Refactor
 - Advanced Relational Data
@@ -215,6 +216,7 @@
     * [ ] Axios
     * [ ] `componentDidMount`
 - Prebuilt Components
+- Higher Level Components
 - Testing
 - Context API
 - Progressive Web Apps
