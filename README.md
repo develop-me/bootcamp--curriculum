@@ -216,7 +216,7 @@
     * [ ] Axios
     * [ ] `componentDidMount`
 - Prebuilt Components
-- Higher Level Components
+- Higher Order Components
 - Testing
 - Context API
 - Progressive Web Apps
