@@ -201,9 +201,7 @@
     * [ ] State
 - Controlled Components
     * [ ] Form Inputs
-- Lifting State
-    * [ ] Lifting State
-    * [ ] Passing Data Up
+- Prebuilt Components
 - ReactRouter
     * [ ] Routes
     * [ ] URL Parameters
@@ -211,16 +209,21 @@
 
 ## Week 10: Advanced React
 
+- Strict Mode
+- Progressive Web Apps
+- Lifting State
+    * [ ] Lifting State
+    * [ ] Passing Data Up
+- Lifecycle Methods
+    * [ ] `componentDiMount`
 - AJAX
     * [ ] AJAX
     * [ ] Axios
-    * [ ] `componentDidMount`
-- Prebuilt Components
-- Higher Order Components
-- Testing
-- Context API
-- Progressive Web Apps
 - Hooks
+    * [ ] `useState`
+    * [ ] `useReducer`
+    * [ ] `useEffect`
+    * [ ] Custom Hooks
 
 ## Week 11: State Management Redux
 
