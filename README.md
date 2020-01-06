@@ -157,6 +157,7 @@
     * [ ] `@section`
     * [ ] Partials/`@include`
     * [ ] Passing in/around data
+    * [ ] [Laravel Mix](https://laravel-mix.com)?
 - Controllers
 
 
@@ -170,6 +171,7 @@
     * [ ] Forms
     * [ ] Validation
     * [ ] SQL Injection/Mass Assignment
+    * [ ] File uploads (Tricksy?)
 
 
 - Relational Data
