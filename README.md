@@ -84,6 +84,7 @@
     * [ ] Bubbling
     * [ ] Event Delegation
 
+
 ## Week 5: Tooling - Git & Gulp
 
 - Git
@@ -138,31 +139,46 @@
 
 ## Week 7: Laravel Blade
 
-- MySQL
-    * [ ] Server-side Programming
+- Server-Side Programming
+    * [ ] What is a server?
     * [ ] Vagrant
-    * [ ] MySQL CLI
-    * [ ] PDO
+- MySQL
+    * [ ] Why?
+    * [ ] Relational Data/Structure
+    * [ ] Data Types
+    * [ ] CLI
+
+
 - Basic Laravel
     * [ ] Homestead
-    * [ ] Eloquent
-    * [ ] Database Migrations
     * [ ] Routing
-    * [ ] Controllers
-    * [ ] Blade
+- Blade
+    * [ ] `@extends`
+    * [ ] `@section`
+    * [ ] Partials/`@include`
+    * [ ] Passing in/around data
+- Controllers
+
+
+- Models
+    * [ ] Eloquent
+    * [ ] Database Migrations & Rollbacks
+    * [ ] Seeding
     * [ ] Route Model Binding
 - Forms
     * [ ] `GET` & `POST`
     * [ ] Forms
     * [ ] Validation
+    * [ ] SQL Injection/Mass Assignment
+
+
 - Relational Data
     * [ ] One-to-Many Relationships
-- Security
-    * [ ] Sessions
-    * [ ] Cookies
-    * [ ] Storing Passwords
-    * [ ] Mail
-    * [ ] Unit Testing
+- Auth Package
+    * [ ] Config
+    * [ ] Password Hashing/Security
+    * [ ] Sessions/Cookies
+
 
 ## Week 8: Laravel APIs
 
@@ -174,8 +190,7 @@
     * [ ] API Resources
     * [ ] CORS
 - Exceptions
-- TDD
-    * [ ] Red-Green-Refactor
+- Unit Testing
 - Advanced Relational Data
     * [ ] Many-to-many Relationships
 - Authentication
@@ -201,19 +216,18 @@
     * [ ] State
 - Controlled Components
     * [ ] Form Inputs
-- Prebuilt Components
 - ReactRouter
     * [ ] Routes
     * [ ] URL Parameters
     * [ ] Links
+    * [ ] Routes in sub-components
+    * [ ] Hash router (for deployment)
+- Prebuilt Components
 
 ## Week 10: Advanced React
 
 - Strict Mode
 - Progressive Web Apps
-- Lifting State
-    * [ ] Lifting State
-    * [ ] Passing Data Up
 - Lifecycle Methods
     * [ ] `componentDiMount`
 - AJAX
@@ -224,6 +238,10 @@
     * [ ] `useReducer`
     * [ ] `useEffect`
     * [ ] Custom Hooks
+- Lifting State
+    * [ ] Lifting State
+    * [ ] Passing Data Up
+- Deployment
 
 ## Week 11: State Management Redux
 
