@@ -40,6 +40,19 @@
     * [ ] Complex Selectors
     * [ ] Specificity
 
+### Jobs you can do now
+- Building personal website for clients
+- Customising Tumblr blogs
+- Setup WordPress.com sites
+- Creating custom email templates
+- Webmaster of local non-profits
+- Website Producer
+- Social Media Manager
+- Junior Web Developer
+- Quality Assurance Engineer
+
+src: https://skillcrush.com/blog/skillcrushtv-9-jobs-html-css/
+
 ## Week 3: Programming Fundamentals with JavaScript
 
 - Fundamentals
@@ -84,6 +97,12 @@
     * [ ] Bubbling
     * [ ] Event Delegation
 
+### Jobs you can do now
+- all of the previous
+- junior front end developer
+- junior javascript developer
+- Theme developer for WordPress, Drupal, Ghost, etc...
+
 
 ## Week 5: Tooling - Git & Gulp
 
@@ -107,6 +126,10 @@
     * [ ] Gulp plugins
     * [ ] Gulp tasks
     * [ ] Git+gulp
+
+### Jobs you can do now
+- chances for all of the previous have increased
+- https://www.indeed.co.uk/junior-javascript-Developer-jobs
 
 ## Week 6: OOP PHP
 
@@ -136,6 +159,13 @@
     * [ ] Interfaces
     * [ ] Inheritance
     * [ ] Issues with Inheritance
+
+### Jobs you can do now
+- all of the previous
+- web developer
+- Junior PHP developer
+- WordPress plugin developer
+- https://www.indeed.co.uk/junior-php-Developer-jobs
 
 ## Week 7: Laravel Blade
 
@@ -201,6 +231,16 @@
     * [ ] EC2
     * [ ] SSH
 
+### Jobs you can do now
+- All of the previous
+- back end developer
+- PHP developer
+- Laravel developer
+- some full-stack developer roles
+- https://www.indeed.co.uk/junior-laravel-Developer-jobs
+
+
+
 ## Week 9: UIs with React
 
 - JSX
@@ -243,6 +283,12 @@
     * [ ] Passing Data Up
 - Deployment
 
+### Jobs you can do now
+- all of the previous
+- Junior Front-end react developer
+- Javascript developer
+- https://www.indeed.co.uk/junior-react-Developer-jobs
+
 ## Week 11: State Management Redux
 
 - Redux
@@ -268,3 +314,8 @@
     * [ ] Database Structure
     * [ ] API Design
     * [ ] Redux Actions
+
+### Jobs you can do now
+- all of the previous
+- Junior Software Developer
+- https://www.indeed.co.uk/junior-software-developer-jobs
