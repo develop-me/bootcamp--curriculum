@@ -1,42 +1,43 @@
 ## Week 1: HTML & CSS
 
-- Basic HTML
-    * [ ] HTML Sectioning Elements
-    * [ ] HTML Content Elements
+- HTML Fundamentals
+    * [ ] HTML Intro & Syntax
     * [ ] HTML Page Structure
-- Basic CSS
-    * [ ] Basic Styling
+    * [ ] HTML Content Elements
+    * [ ] HTML Sectioning Elements
+    * [ ] HTML Media Elements
+    * [ ] HTML Text Elements
+    * [ ] HTML Forms
+- CSS Fundementals
+    * [ ] CSS Intro & Syntax
+    * [ ] Basic Styles
+    * [ ] Web Fonts
     * [ ] Colours
     * [ ] Box Model
-    * [ ] Sizing Units
-    * [ ] Media Queries
-- Design
-    * [ ] Photoshop
-    * [ ] HTML Form Elements
-- Flexbox & Fonts
+    * [ ] Floats
+    * [ ] Units
+    * [ ] Responsive Design & Media Queries
     * [ ] Flexbox
-    * [ ] Web Fonts
-- Performance
-    * [ ] Uploading Code
-    * [ ] Peformance
+    * [ ] Grid
+- Web Theory
+    * [ ] Devtools
+    * [ ] Accessibility
+    * [ ] Requirements gathering
+    * [ ] Samping & Wireframing
 
 ## Week 2: Advanced HTML & CSS
 
-- Process
-    * [ ] Work Methods
-    * [ ] Requirements Gathering
-    * [ ] Site Maps
-    * [ ] Scamping & Wireframes
-    * [ ] Project Handover
-    * [ ] CSS Frameworks & Bootstrap
-- CSS Layout
-    * [ ] CSS Grid
+- Web Theory
     * [ ] Design Systems
-    * [ ] CSS Methdologies
-- SASS
-    * [ ] SASS
-    * [ ] Advanced CSS
-- Advanced CSS Selectors
+    * [ ] Design Handover & Breakdown
+    * [ ] Upload to server
+    * [ ] Testing
+- CSS for Systems
+    * [ ] Positioning
+    * [ ] Imports
+    * [ ] Variables
+    * [ ] Atomic Design
+    * [ ] BEM
     * [ ] Complex Selectors
     * [ ] Specificity
 
