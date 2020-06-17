@@ -25,7 +25,7 @@
     * [ ] Requirements gathering
     * [ ] Samping & Wireframing
 
-## Week 2: Advanced HTML & CSS
+## Week 2: HTML & CSS Continued
 
 - Web Theory
     * [ ] Design Systems
@@ -138,7 +138,7 @@
     * [ ] Inheritance
     * [ ] Issues with Inheritance
 
-## Week 7: Laravel Blade
+## Week 7: Laravel
 
 - Server-Side Programming
     * [ ] What is a server?
@@ -148,24 +148,19 @@
     * [ ] Relational Data/Structure
     * [ ] Data Types
     * [ ] CLI
-
-
 - Basic Laravel
     * [ ] Homestead
     * [ ] Routing
+- Models
+    * [ ] Eloquent
+    * [ ] Database Migrations & Rollbacks
+    * [ ] Seeding
 - Blade
     * [ ] `@extends`
     * [ ] `@section`
     * [ ] Partials/`@include`
     * [ ] Passing in/around data
-    * [ ] [Laravel Mix](https://laravel-mix.com)?
 - Controllers
-
-
-- Models
-    * [ ] Eloquent
-    * [ ] Database Migrations & Rollbacks
-    * [ ] Seeding
     * [ ] Route Model Binding
 - Forms
     * [ ] `GET` & `POST`
@@ -173,27 +168,21 @@
     * [ ] Validation
     * [ ] SQL Injection/Mass Assignment
     * [ ] File uploads (Tricksy?)
-
-
 - Relational Data
     * [ ] One-to-Many Relationships
-- Auth Package
-    * [ ] Config
-    * [ ] Password Hashing/Security
-    * [ ] Sessions/Cookies
+- Unit Testing
 
 
-## Week 8: Laravel APIs
+## Week 8: Laravel Continued
 
 - HTTP & RESTful APIs
     * [ ] HTTP
     * [ ] RESTful APIs
+- APIs with Laravel
     * [ ] `api` routes
     * [ ] API Controllers
     * [ ] API Resources
     * [ ] CORS
-- Exceptions
-- Unit Testing
 - Advanced Relational Data
     * [ ] Many-to-many Relationships
 - Authentication
@@ -203,6 +192,7 @@
     * [ ] AWS
     * [ ] EC2
     * [ ] SSH
+    * [ ] Capistrano
 
 ## Week 9: UIs with React
 
@@ -216,7 +206,9 @@
     * [ ] One-way data-flow
 - State
     * [ ] Class-based components
+    * [ ] Events
     * [ ] State
+- Lifecycle Methods
 - Controlled Components
     * [ ] Form Inputs
 - ReactRouter
@@ -224,15 +216,16 @@
     * [ ] URL Parameters
     * [ ] Links
     * [ ] Routes in sub-components
+    * [ ] History
     * [ ] Hash router (for deployment)
 - Prebuilt Components
+- Deployment
 
 ## Week 10: Advanced React
 
-- Strict Mode
-- Progressive Web Apps
-- Lifecycle Methods
-    * [ ] `componentDiMount`
+- Lifting State
+    * [ ] Lifting State
+    * [ ] Passing Data Up
 - AJAX
     * [ ] AJAX
     * [ ] Axios
@@ -241,10 +234,6 @@
     * [ ] `useReducer`
     * [ ] `useEffect`
     * [ ] Custom Hooks
-- Lifting State
-    * [ ] Lifting State
-    * [ ] Passing Data Up
-- Deployment
 
 ## Week 11: State Management Redux
 
