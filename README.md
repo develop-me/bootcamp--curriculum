@@ -8,7 +8,7 @@
     * [ ] HTML Media Elements
     * [ ] HTML Text Elements
     * [ ] HTML Forms
-- CSS Fundementals
+- CSS Fundamentals
     * [ ] CSS Intro & Syntax
     * [ ] Basic Styles
     * [ ] Web Fonts
@@ -23,7 +23,7 @@
     * [ ] Devtools
     * [ ] Accessibility
     * [ ] Requirements gathering
-    * [ ] Samping & Wireframing
+    * [ ] Sampling & Wireframing
 
 ## Week 2: HTML & CSS Continued
 
@@ -218,7 +218,7 @@
     * [ ] Routes in sub-components
     * [ ] History
     * [ ] Hash router (for deployment)
-- Prebuilt Components
+- Pre-built Components
 - Deployment
 
 ## Week 10: Advanced React
