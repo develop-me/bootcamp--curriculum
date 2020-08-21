@@ -98,6 +98,7 @@
     * [ ] Pull
     * [ ] Push
     * [ ] Pull Requests
+- SASS
 - npm
     * [ ] npm init
     * [ ] npm install
@@ -112,6 +113,7 @@
 ## Week 6: OOP PHP
 
 - PHP Syntax
+    * [ ] Composer
     * [ ] Variables
     * [ ] Logic
     * [ ] Functions
@@ -125,14 +127,15 @@
     * [ ] Class syntax in PHP
     * [ ] Visibility
     * [ ] Properties
-- Namespaces & Composer
-    * [ ] Namespaces
+- Autoloading & Namespaces
     * [ ] Autoloading
-    * [ ] Composer
-    * [ ] Useful Packages
-- Encapsulation
-    * [ ] Basic OOP
+    * [ ] Namespaces
+- OOP
+    * [ ] Bootstrapping
+    * [ ] Objects talking to Objects
     * [ ] Law of Demeter
+- Encapsulation
+    * [ ] Type Safety
 - Polymorphism
     * [ ] Interfaces
     * [ ] Inheritance
@@ -155,6 +158,7 @@
     * [ ] Eloquent
     * [ ] Database Migrations & Rollbacks
     * [ ] Seeding
+- Unit Testing
 - Blade
     * [ ] `@extends`
     * [ ] `@section`
@@ -170,7 +174,6 @@
     * [ ] File uploads (Tricksy?)
 - Relational Data
     * [ ] One-to-Many Relationships
-- Unit Testing
 
 
 ## Week 8: Laravel Continued
