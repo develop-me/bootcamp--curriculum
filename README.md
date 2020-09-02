@@ -1,4 +1,4 @@
-## Week 1: HTML & CSS
+## Week 1 & 2: HTML & CSS
 
 - HTML Fundamentals
     * [ ] HTML Intro & Syntax
@@ -8,7 +8,7 @@
     * [ ] HTML Media Elements
     * [ ] HTML Text Elements
     * [ ] HTML Forms
-- CSS Fundementals
+- CSS Fundamentals
     * [ ] CSS Intro & Syntax
     * [ ] Basic Styles
     * [ ] Web Fonts
@@ -23,11 +23,7 @@
     * [ ] Devtools
     * [ ] Accessibility
     * [ ] Requirements gathering
-    * [ ] Samping & Wireframing
-
-## Week 2: HTML & CSS Continued
-
-- Web Theory
+    * [ ] Sampling & Wireframing
     * [ ] Design Systems
     * [ ] Design Handover & Breakdown
     * [ ] Upload to server
@@ -98,6 +94,7 @@
     * [ ] Pull
     * [ ] Push
     * [ ] Pull Requests
+- SASS
 - npm
     * [ ] npm init
     * [ ] npm install
@@ -109,9 +106,10 @@
     * [ ] Gulp tasks
     * [ ] Git+gulp
 
-## Week 6: OOP PHP
+## Week 6: OOP with PHP
 
 - PHP Syntax
+    * [ ] Composer
     * [ ] Variables
     * [ ] Logic
     * [ ] Functions
@@ -125,20 +123,21 @@
     * [ ] Class syntax in PHP
     * [ ] Visibility
     * [ ] Properties
-- Namespaces & Composer
-    * [ ] Namespaces
+- Autoloading & Namespaces
     * [ ] Autoloading
-    * [ ] Composer
-    * [ ] Useful Packages
-- Encapsulation
-    * [ ] Basic OOP
+    * [ ] Namespaces
+- OOP
+    * [ ] Bootstrapping
+    * [ ] Objects talking to Objects
     * [ ] Law of Demeter
+- Encapsulation
+    * [ ] Type Safety
 - Polymorphism
     * [ ] Interfaces
     * [ ] Inheritance
     * [ ] Issues with Inheritance
 
-## Week 7: Laravel
+## Week 7 & 8: Laravel
 
 - Server-Side Programming
     * [ ] What is a server?
@@ -155,6 +154,7 @@
     * [ ] Eloquent
     * [ ] Database Migrations & Rollbacks
     * [ ] Seeding
+- Unit Testing
 - Blade
     * [ ] `@extends`
     * [ ] `@section`
@@ -170,11 +170,6 @@
     * [ ] File uploads (Tricksy?)
 - Relational Data
     * [ ] One-to-Many Relationships
-- Unit Testing
-
-
-## Week 8: Laravel Continued
-
 - HTTP & RESTful APIs
     * [ ] HTTP
     * [ ] RESTful APIs
@@ -194,7 +189,7 @@
     * [ ] SSH
     * [ ] Capistrano
 
-## Week 9: UIs with React
+## Week 9 & 10: UIs with React
 
 - JSX
     * [ ] Basic JSX
@@ -218,12 +213,9 @@
     * [ ] Routes in sub-components
     * [ ] History
     * [ ] Hash router (for deployment)
-- Prebuilt Components
+- Pre-built Components
 - Deployment
-
-## Week 10: Advanced React
-
-- Lifting State
+- One-Way Data Flow
     * [ ] Lifting State
     * [ ] Passing Data Up
 - AJAX
@@ -232,10 +224,8 @@
 - Hooks
     * [ ] `useState`
     * [ ] `useReducer`
-    * [ ] `useEffect`
-    * [ ] Custom Hooks
 
-## Week 11: State Management Redux
+## Week 11: State Management with Redux
 
 - Redux
     * [ ] Initial State
