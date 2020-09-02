@@ -1,4 +1,4 @@
-## Week 1: HTML & CSS
+## Week 1 & 2: HTML & CSS
 
 - HTML Fundamentals
     * [ ] HTML Intro & Syntax
@@ -24,10 +24,6 @@
     * [ ] Accessibility
     * [ ] Requirements gathering
     * [ ] Sampling & Wireframing
-
-## Week 2: HTML & CSS Continued
-
-- Web Theory
     * [ ] Design Systems
     * [ ] Design Handover & Breakdown
     * [ ] Upload to server
@@ -110,7 +106,7 @@
     * [ ] Gulp tasks
     * [ ] Git+gulp
 
-## Week 6: OOP PHP
+## Week 6: OOP with PHP
 
 - PHP Syntax
     * [ ] Composer
@@ -141,7 +137,7 @@
     * [ ] Inheritance
     * [ ] Issues with Inheritance
 
-## Week 7: Laravel
+## Week 7 & 8: Laravel
 
 - Server-Side Programming
     * [ ] What is a server?
@@ -174,10 +170,6 @@
     * [ ] File uploads (Tricksy?)
 - Relational Data
     * [ ] One-to-Many Relationships
-
-
-## Week 8: Laravel Continued
-
 - HTTP & RESTful APIs
     * [ ] HTTP
     * [ ] RESTful APIs
@@ -197,7 +189,7 @@
     * [ ] SSH
     * [ ] Capistrano
 
-## Week 9: UIs with React
+## Week 9 & 10: UIs with React
 
 - JSX
     * [ ] Basic JSX
@@ -223,10 +215,7 @@
     * [ ] Hash router (for deployment)
 - Pre-built Components
 - Deployment
-
-## Week 10: Advanced React
-
-- Lifting State
+- One-Way Data Flow
     * [ ] Lifting State
     * [ ] Passing Data Up
 - AJAX
@@ -235,10 +224,8 @@
 - Hooks
     * [ ] `useState`
     * [ ] `useReducer`
-    * [ ] `useEffect`
-    * [ ] Custom Hooks
 
-## Week 11: State Management Redux
+## Week 11: State Management with Redux
 
 - Redux
     * [ ] Initial State
