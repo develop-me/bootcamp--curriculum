@@ -121,7 +121,6 @@
     * [ ] When *not* to use Regex
 - Classes in PHP
     * [ ] Class syntax in PHP
-    * [ ] Visibility
     * [ ] Properties
 - Autoloading & Namespaces
     * [ ] Autoloading
@@ -129,9 +128,10 @@
 - OOP
     * [ ] Bootstrapping
     * [ ] Objects talking to Objects
-    * [ ] Law of Demeter
 - Encapsulation
+    * [ ] Visibility
     * [ ] Type Safety
+    * [ ] Law of Demeter
 - Polymorphism
     * [ ] Interfaces
     * [ ] Inheritance
@@ -168,8 +168,6 @@
     * [ ] Validation
     * [ ] SQL Injection/Mass Assignment
     * [ ] File uploads (Tricksy?)
-- Relational Data
-    * [ ] One-to-Many Relationships
 - HTTP & RESTful APIs
     * [ ] HTTP
     * [ ] RESTful APIs
@@ -178,7 +176,8 @@
     * [ ] API Controllers
     * [ ] API Resources
     * [ ] CORS
-- Advanced Relational Data
+- Relational Data
+    * [ ] One-to-Many Relationships
     * [ ] Many-to-many Relationships
 - Authentication
     * [ ] OAuth 2
