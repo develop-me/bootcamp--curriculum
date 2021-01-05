@@ -1,4 +1,4 @@
-## Week 1 & 2: HTML & CSS
+## Module 01: HTML & CSS 1
 
 - HTML Fundamentals
     * [ ] HTML Intro & Syntax
@@ -19,6 +19,10 @@
     * [ ] Responsive Design & Media Queries
     * [ ] Flexbox
     * [ ] Grid
+
+
+## Module 02: HTML & CSS 2
+
 - Web Theory
     * [ ] Devtools
     * [ ] Accessibility
@@ -37,7 +41,8 @@
     * [ ] Complex Selectors
     * [ ] Specificity
 
-## Week 3: Programming Fundamentals with JavaScript
+
+## Module 03: Programming Fundamentals with JavaScript
 
 - Fundamentals
     * [ ] Types
@@ -61,7 +66,8 @@
     * [ ] Standard Library
     * [ ] Classes
 
-## Week 4: The DOM
+
+## Module 04: The DOM
 
 - Selecting Elements
     * [ ] Individual Elements
@@ -82,7 +88,7 @@
     * [ ] Event Delegation
 
 
-## Week 5: Tooling - Git & Gulp
+## Module 05: Tooling - Git & Gulp
 
 - Git
     * [ ] Add
@@ -106,7 +112,8 @@
     * [ ] Gulp tasks
     * [ ] Git+gulp
 
-## Week 6: OOP with PHP
+
+## Module 06: OOP with PHP
 
 - PHP Syntax
     * [ ] Composer
@@ -137,7 +144,8 @@
     * [ ] Inheritance
     * [ ] Issues with Inheritance
 
-## Week 7 & 8: Laravel
+
+## Module 07: Laravel 1
 
 - Server-Side Programming
     * [ ] What is a server?
@@ -168,6 +176,10 @@
     * [ ] Validation
     * [ ] SQL Injection/Mass Assignment
     * [ ] File uploads (Tricksy?)
+
+
+## Module 08: Laravel 2
+
 - HTTP & RESTful APIs
     * [ ] HTTP
     * [ ] RESTful APIs
@@ -188,7 +200,8 @@
     * [ ] SSH
     * [ ] Capistrano
 
-## Week 9 & 10: UIs with React
+
+## Module 09: UIs with React 1
 
 - JSX
     * [ ] Basic JSX
@@ -214,6 +227,10 @@
     * [ ] Hash router (for deployment)
 - Pre-built Components
 - Deployment
+
+
+## Module 10: UIs with React 2
+
 - One-Way Data Flow
     * [ ] Lifting State
     * [ ] Passing Data Up
@@ -224,7 +241,8 @@
     * [ ] `useState`
     * [ ] `useReducer`
 
-## Week 11: State Management with Redux
+
+## Module 11: State Management with Redux
 
 - Redux
     * [ ] Initial State
@@ -240,7 +258,8 @@
     * [ ] Thunks
     * [ ] API Requests
 
-## Week 12: Project Week
+
+## Module 12: Project Week
 
 - Split into Groups
 - Process
